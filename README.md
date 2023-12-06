@@ -1,4 +1,7 @@
 # POWER_BI
+
+![image](https://github.com/Elenacola/POWER_BI/assets/79009772/34c6c374-adaa-423d-bb5d-c33337554757)
+
 ![image](https://user-images.githubusercontent.com/79009772/223735391-66f352d3-47bc-4f4e-8908-8277e6fdeebe.png)
 
 
